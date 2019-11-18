@@ -1,10 +1,6 @@
 
 package coffebucks;
 
-/**
- *
- * @author 16121742019.2
- */
 public class JInterface extends javax.swing.JFrame {
 
     /**
